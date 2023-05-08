@@ -1,0 +1,14 @@
+
+package Tarea10;
+
+/**
+ *
+ * @author Gateway
+ */
+public class Main {
+    public static void main(String[] args) {
+        //Ventana ventana = new Ventana ("Layouts");
+        //VentanaGrind ventanaGrid = new VentanaGrind("Ventana Layout cuadricula");
+        VentanaSwing ventanaSwing = new VentanaSwing("Centigrados a farenheit");
+    }
+}
